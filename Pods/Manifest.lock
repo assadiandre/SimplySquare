@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.6.0)
+  - CropViewController (2.3.4):
+    - TOCropViewController
+  - Firebase (4.7.0):
+    - Firebase/Core (= 4.7.0)
+  - Firebase/Core (4.7.0):
+    - FirebaseAnalytics (= 4.0.5)
+    - FirebaseCore (= 4.0.12)
+  - Firebase/Database (4.7.0):
+    - Firebase/Core
+    - FirebaseDatabase (= 4.1.2)
+  - FirebaseAnalytics (4.0.5):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.12):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseDatabase (4.1.2):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (2.0.7)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/NSData+zlib (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - KDLoadingView (1.0.4)
+  - leveldb-library (1.20)
+  - M13ProgressSuite (1.2.9)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - OneSignal (2.6.0)
+  - SmartystreetsSDK (7.3.2)
+  - Stripe (11.5.0)
+  - SwiftLuhn (0.2.1)
+  - TextFieldEffects (1.4.0)
+  - TOCropViewController (2.3.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CropViewController
+  - Firebase
+  - Firebase/Database
+  - KDLoadingView (~> 1.0)
+  - M13ProgressSuite
+  - OneSignal (< 3.0, >= 2.5.2)
+  - SmartystreetsSDK
+  - Stripe
+  - SwiftLuhn
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  CropViewController: b5ecd6625fb6bbefaacc19fe42ecee719f81f75e
+  Firebase: dbfb98ccec2dcfcd21ab9cc1b4981a3f3c8c5e26
+  FirebaseAnalytics: 5b02a63ead2c3f0259cfc7f15e053e440587ecf8
+  FirebaseCore: 6cf108b63997bc08c04a1ffa55a3ac0d71a59ffc
+  FirebaseDatabase: 18ecb23e15c7f58bb0c4527e9cace06897cc40ca
+  FirebaseInstanceID: 148c25c986c8699e67304b114e365713dce467f2
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  KDLoadingView: fcb015daf91c245f0a212fd52b8061621f421dfe
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  M13ProgressSuite: ea9f7263e73e9215e6849dfa54e29ee0ad6a145c
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  OneSignal: 4786d2ed24ea315ceff66d83cbd418af0cc94311
+  SmartystreetsSDK: acceb851c099d505137588b7c3fa39e86480a7d7
+  Stripe: 10761682d20dc491c52287393c800db056c9748d
+  SwiftLuhn: 05b38a0bd30b952d9b42b4c05ae7dd73431bcd3a
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+  TOCropViewController: 808c9724904be931dd2de5f97fcccf4cc8f8b03f
+
+PODFILE CHECKSUM: b6705a79a1eaee4a9f55f8d76a51861e879100ee
+
+COCOAPODS: 1.4.0.rc.1
