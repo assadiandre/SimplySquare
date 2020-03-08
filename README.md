@@ -8,8 +8,6 @@
 - Build and run the application for IOS devices (iphone 6,6s,7,8)
 - NOTE: In order for the camera roll collection view to show you must be running on a real IOS device.
 
-
-[img]https://i.ibb.co/WfCmcVL/simplysquare.png[/img]
-
+![SimplySquare Image](https://i.ibb.co/WfCmcVL/simplysquare.png)
 
 
