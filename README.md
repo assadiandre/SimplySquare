@@ -1,5 +1,7 @@
 # SimplySquare
 
+**About**
+SimplySquare was an app marketplace for wooden tiles. I co-founded the company with my brother, Michael Assadi. I developed the iOS app which was built using Swift, UIKit, Stripe, Firebase, and OneSignal notifier (for promo codes). The app detected low-resolution images from the camera roll and upon completion sent them to Greenerprinter servers via a RESTful API.
 
 **To run the app:**
 
@@ -7,10 +9,6 @@
 - Open the .workspace file.
 - Build and run the application for IOS devices (iphone 6,6s,7,8)
 - NOTE: In order for the camera roll collection view to show you must be running on a real IOS device.
-
-**About**
-
-SimplySquare was an in app marketplace for 8x8 inch wooden squares, it was published to the app-store but has since been removed. This was my first project in Xcode. It included notifications with One Signal, in app payments with Stripe, linked promotion codes with a Firebase database, and much more. I am very proud of this app and although it was never published I finished the project and gained a lot of experience.
 
 
 ![alt text](https://image.ibb.co/iNwqsc/IMG_0902.jpg) 
