@@ -9,7 +9,7 @@
 - NOTE: In order for the camera roll collection view to show you must be running on a real IOS device.
 
 
-![alt text](https://image.ibb.co/iNwqsc/IMG_0902.jpg) 
+[img]https://i.ibb.co/WfCmcVL/simplysquare.png[/img]
 
 
 
